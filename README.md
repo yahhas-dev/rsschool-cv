@@ -1,1 +1,1 @@
-# rsschool-cv
+https://yahhas-dev.github.io/rsschool-cv/cv
