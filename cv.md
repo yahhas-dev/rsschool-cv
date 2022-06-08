@@ -1,1 +1,2 @@
-## Welcome!
+# Sergey Egunov   
+## Junior Frontend Dev.
